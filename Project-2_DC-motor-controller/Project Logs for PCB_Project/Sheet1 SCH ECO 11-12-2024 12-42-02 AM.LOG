@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C2 0.1uF NewDesignator=C2
+Change Component Designator: OldDesignator=C1 10nF NewDesignator=C1
+Change Component Designator: OldDesignator=R1 - 1k NewDesignator=R1
+Change Component Designator: OldDesignator=R2 -1k NewDesignator=R2
+Change Component Designator: OldDesignator=R3 - 1k NewDesignator=R3

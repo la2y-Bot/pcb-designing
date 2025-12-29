@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C1 10nF
+Change Component Designator: OldDesignator=C2 NewDesignator=C2 0.1uF
+Change Component Designator: OldDesignator=R1 NewDesignator=R1 - 1k
+Change Component Designator: OldDesignator=R2 NewDesignator=R2 -1k
+Change Component Designator: OldDesignator=R3 NewDesignator=R3 - 1k
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC1 10nF_2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC2 0.1uF_2
+Added Member To Class: ClassName=Sheet1 Member=Component J1 1760510000
