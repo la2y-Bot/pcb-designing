@@ -23,7 +23,7 @@ This project involves designing a PCB for an IR sensor. The design includes the 
 This project focuses on creating a PCB for a DC motor controller, which allows for the control of motor speed and direction.
 
 ### Key Files
-- **PCB_Project.OutJob**: Output job file for the PCB.
+- **PCB_Project.OutJob**: Output job file for the PCB.ls
 - **PCB_Project.PrjPcb**: Project file for the PCB design.
 - **PCB1.PcbDoc**: PCB document for the motor controller.
 
